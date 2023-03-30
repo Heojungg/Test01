@@ -13,8 +13,7 @@
         "EMD_ENG_NM": "Jogyo-dong",
         "EMD_KOR_NM": "조교동",
         "읍면동": "동부동",
-        "당월고�": null,
-        "인구수": 713
+        "당월고�": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -461,8 +460,7 @@
         "EMD_ENG_NM": "Mangjeong-dong",
         "EMD_KOR_NM": "망정동",
         "읍면동": "동부동",
-        "당월고�": null,
-        "인구수": 551
+        "당월고�": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1018,8 +1016,7 @@
         "EMD_ENG_NM": "Yasa-dong",
         "EMD_KOR_NM": "야사동",
         "읍면동": "동부동",
-        "당월고�": null,
-        "인구수": 73
+        "당월고�": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1390,8 +1387,7 @@
         "EMD_ENG_NM": "Munnae-dong",
         "EMD_KOR_NM": "문내동",
         "읍면동": "중앙동",
-        "당월고�": null,
-        "인구수": 830
+        "당월고�": null
       },
       "geometry": {
         "type": "MultiPolygon",
