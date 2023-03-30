@@ -8,18 +8,10 @@
   "features": [
     {
       "type": "Feature",
+      "id": "01",
       "properties": {
-        "density": 94.65,
-        "OBJECTID": 2903,
-        "adm_nm": "경상북도 영천시 금호읍",
-        "adm_cd": "3707011",
-        "adm_cd2": "4723025000",
-        "sgg": "47230",
-        "sido": "47",
-        "sidonm": "경상북도",
-        "temp": "영천시 금호읍",
-        "sggnm": "영천시",
-        "adm_cd8": "37070110"
+        "name": "영천시 금호읍",
+        "density": 94.65
       },
       "geometry": {
         "type": "MultiPolygon",
