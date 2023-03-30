@@ -11,7 +11,8 @@
       "id": "01",
       "properties": {
         "name": "영천시 금호읍",
-        "density": 94.65
+        "density": 94.65,
+        "d": 94.65
       },
       "geometry": {
         "type": "MultiPolygon",
