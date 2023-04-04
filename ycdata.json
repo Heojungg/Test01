@@ -7,7 +7,8 @@
       "properties": {
         "name": "금호읍",
         "eng_name": "Geumho-eup",
-        "destiny": 22
+        "destiny": 22,
+        "금호읍": 13
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -245,7 +246,8 @@
       "properties": {
         "name": "청통면",
         "eng_name": "Cheongtong-myeon",
-        "destiny": 6.5
+        "destiny": 6.5,
+        "청통면": 6.5
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -784,7 +786,8 @@
       "properties": {
         "name": "신녕면",
         "eng_name": "Sinnyeong-myeon",
-        "destiny": 6.5
+        "destiny": 6.5,
+        "신녕면": 3.5
       },
       "geometry": {
         "type": "MultiPolygon",
