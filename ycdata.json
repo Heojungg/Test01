@@ -8,7 +8,8 @@
         "name": "금호읍",
         "eng_name": "Geumho-eup",
         "destiny": 22,
-        "금호읍": 13
+        "금호읍": 13,
+        "rgba": [255, 255, 255, 1]
       },
       "geometry": {
         "type": "MultiPolygon",
