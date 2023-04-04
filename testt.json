@@ -1,12 +1,27 @@
 {
   "type": "FeatureCollection",
+  "id": "00",
+  "name": "영천시 읍면동",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
   "features": [
     {
       "type": "Feature",
       "id": "01",
       "properties": {
+        "OBJECTID": 2903,
+        "adm_nm": "경상북도 영천시 금호읍",
+        "adm_cd": "3707011",
+        "adm_cd2": "4723025000",
+        "sgg": "47230",
+        "sido": "47",
+        "sidonm": "경상북도",
         "name": "금호읍",
-        "금호읍": 200
+        "eng_name": "Geumho-eup",
+        "sggnm": "영천시",
+        "adm_cd8": "37070110"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -240,10 +255,19 @@
     },
     {
       "type": "Feature",
-      "id": "01",
+      "id": "02",
       "properties": {
+        "OBJECTID": 2904,
+        "adm_nm": "경상북도 영천시 청통면",
+        "adm_cd": "3707031",
+        "adm_cd2": "4723031000",
+        "sgg": "47230",
+        "sido": "47",
+        "sidonm": "경상북도",
         "name": "청통면",
-        "destiny": 13.0
+        "eng_name": "Cheongtong-myeon",
+        "sggnm": "영천시",
+        "adm_cd8": "37070310"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -777,10 +801,20 @@
       }
     },
     {
+      "type": "Feature",
       "id": "03",
       "properties": {
+        "OBJECTID": 2905,
+        "adm_nm": "경상북도 영천시 신녕면",
+        "adm_cd": "3707032",
+        "adm_cd2": "4723032000",
+        "sgg": "47230",
+        "sido": "47",
+        "sidonm": "경상북도",
         "name": "신녕면",
-        "destiny": 7.4
+        "eng_name": "Sinnyeong-myeon",
+        "sggnm": "영천시",
+        "adm_cd8": "37070320"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1133,10 +1167,20 @@
       }
     },
     {
+      "type": "Feature",
       "id": "04",
       "properties": {
+        "OBJECTID": 2906,
+        "adm_nm": "경상북도 영천시 화산면",
+        "adm_cd": "3707033",
+        "adm_cd2": "4723033000",
+        "sgg": "47230",
+        "sido": "47",
+        "sidonm": "경상북도",
         "name": "화산면",
-        "destiny": 4.2
+        "eng_name": "Hwasan-myeon",
+        "sggnm": "영천시",
+        "adm_cd8": "37070330"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1512,10 +1556,19 @@
     },
     {
       "type": "Feature",
-      "id": "06",
+      "id": "05",
       "properties": {
+        "OBJECTID": 2907,
+        "adm_nm": "경상북도 영천시 화북면",
+        "adm_cd": "3707034",
+        "adm_cd2": "4723034000",
+        "sgg": "47230",
+        "sido": "47",
+        "sidonm": "경상북도",
         "name": "화북면",
-        "destiny": 11.4
+        "eng_name": "Hwabuk-myeon",
+        "sggnm": "영천시",
+        "adm_cd8": "37070340"
       },
       "geometry": {
         "type": "MultiPolygon",
