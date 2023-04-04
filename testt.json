@@ -6,7 +6,7 @@
       "id": "01",
       "properties": {
         "name": "금호읍",
-        "destiny": 11.4
+        "금호읍": 200
       },
       "geometry": {
         "type": "MultiPolygon",
