@@ -1,5 +1,6 @@
 {
   "type": "FeatureCollection",
+  "id": "00",
   "name": "영천시 읍면동",
   "crs": {
     "type": "name",
@@ -8,6 +9,7 @@
   "features": [
     {
       "type": "Feature",
+      "id": "01",
       "properties": {
         "OBJECTID": 2903,
         "adm_nm": "경상북도 영천시 금호읍",
@@ -253,6 +255,7 @@
     },
     {
       "type": "Feature",
+      "id": "02",
       "properties": {
         "OBJECTID": 2904,
         "adm_nm": "경상북도 영천시 청통면",
@@ -799,6 +802,7 @@
     },
     {
       "type": "Feature",
+      "id": "03",
       "properties": {
         "OBJECTID": 2905,
         "adm_nm": "경상북도 영천시 신녕면",
@@ -1164,6 +1168,7 @@
     },
     {
       "type": "Feature",
+      "id": "04",
       "properties": {
         "OBJECTID": 2906,
         "adm_nm": "경상북도 영천시 화산면",
@@ -1551,6 +1556,7 @@
     },
     {
       "type": "Feature",
+      "id": "05",
       "properties": {
         "OBJECTID": 2907,
         "adm_nm": "경상북도 영천시 화북면",
@@ -2086,6 +2092,7 @@
     },
     {
       "type": "Feature",
+      "id": "06",
       "properties": {
         "OBJECTID": 2908,
         "adm_nm": "경상북도 영천시 화남면",
@@ -2642,6 +2649,7 @@
     },
     {
       "type": "Feature",
+      "id": "07",
       "properties": {
         "OBJECTID": 2909,
         "adm_nm": "경상북도 영천시 자양면",
@@ -3159,6 +3167,7 @@
     },
     {
       "type": "Feature",
+      "id": "08",
       "properties": {
         "OBJECTID": 2910,
         "adm_nm": "경상북도 영천시 임고면",
@@ -3585,6 +3594,7 @@
     },
     {
       "type": "Feature",
+      "id": "09",
       "properties": {
         "OBJECTID": 2911,
         "adm_nm": "경상북도 영천시 고경면",
@@ -4052,6 +4062,7 @@
     },
     {
       "type": "Feature",
+      "id": "10",
       "properties": {
         "OBJECTID": 2912,
         "adm_nm": "경상북도 영천시 북안면",
@@ -4326,6 +4337,7 @@
     },
     {
       "type": "Feature",
+      "id": "11",
       "properties": {
         "OBJECTID": 2913,
         "adm_nm": "경상북도 영천시 대창면",
@@ -4531,6 +4543,7 @@
     },
     {
       "type": "Feature",
+      "id": "12",
       "properties": {
         "OBJECTID": 2914,
         "adm_nm": "경상북도 영천시 동부동",
@@ -4688,6 +4701,7 @@
     },
     {
       "type": "Feature",
+      "id": "13",
       "properties": {
         "OBJECTID": 2915,
         "adm_nm": "경상북도 영천시 중앙동",
@@ -4911,6 +4925,7 @@
     },
     {
       "type": "Feature",
+      "id": "14",
       "properties": {
         "OBJECTID": 2916,
         "adm_nm": "경상북도 영천시 서부동",
@@ -5058,6 +5073,7 @@
     },
     {
       "type": "Feature",
+      "id": "15",
       "properties": {
         "OBJECTID": 2917,
         "adm_nm": "경상북도 영천시 완산동",
@@ -5152,6 +5168,7 @@
     },
     {
       "type": "Feature",
+      "id": "16",
       "properties": {
         "OBJECTID": 2918,
         "adm_nm": "경상북도 영천시 남부동",
