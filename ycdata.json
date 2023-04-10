@@ -7,7 +7,7 @@
       "properties": {
         "name": "금호읍",
         "eng_name": "Geumho-eup",
-        "destiny": 22,
+        "density": 22,
         "금호읍": 13,
         "rgba": [255, 255, 255, 1]
       },
@@ -241,7 +241,7 @@
         ],
         "name": "금호읍",
         "eng_name": "Geumho-eup",
-        "destiny": 22,
+        "density": 22,
         "금호읍": 13,
         "rgba": [255, 255, 255, 1]
       }
@@ -252,7 +252,7 @@
       "properties": {
         "name": "청통면",
         "eng_name": "Cheongtong-myeon",
-        "destiny": 6.5,
+        "density": 6.5,
         "청통면": 6.5
       },
       "geometry": {
@@ -792,7 +792,7 @@
       "properties": {
         "name": "신녕면",
         "eng_name": "Sinnyeong-myeon",
-        "destiny": 6.5,
+        "density": 6.5,
         "신녕면": 3.5
       },
       "geometry": {
@@ -1153,7 +1153,7 @@
 
         "name": "화산면",
         "eng_name": "Hwasan-myeon",
-        "destiny": 3.5
+        "density": 3.5
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1533,7 +1533,7 @@
       "properties": {
         "name": "화북면",
         "eng_name": "Hwabuk-myeon",
-        "destiny": 6.5
+        "density": 6.5
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2061,7 +2061,7 @@
       "properties": {
         "name": "화남면",
         "eng_name": "Hwanam-myeon",
-        "destiny": 3.5
+        "density": 3.5
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2610,7 +2610,7 @@
       "properties": {
         "name": "자양면",
         "eng_name": "Jayang-myeon",
-        "destiny": 19
+        "density": 19
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3120,7 +3120,7 @@
       "properties": {
         "name": "임고면",
         "eng_name": "Imgo-myeon",
-        "destiny": 3
+        "density": 3
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3539,7 +3539,7 @@
       "properties": {
         "name": "고경면",
         "eng_name": "Gogyeong-myeon",
-        "destiny": 2
+        "density": 2
       },
       "geometry": {
         "type": "MultiPolygon",
